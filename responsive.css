@@ -1,0 +1,211 @@
+@media (max-width: 768px) {
+
+    /* ////////////section 1 start from here//////////*/
+    .bc {
+        align-items: center;
+        justify-content: center;
+        height: 940px !important;
+        overflow-x: hidden;
+    }
+
+    .hero1-h1 {
+        font-size: 2em !important;
+        margin-top: 150px !important;
+        margin-left: 10px !important;
+    }
+
+    .hero1-p1 {
+        margin-left: 10px !important;
+    }
+
+    .btn-grad1 {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        position: absolute;
+        left: -60px;
+    }
+
+
+    .hero1-img {
+        width: 21.7rem !important;
+        height: auto !important;
+    }
+
+
+    /* ////////////section 2 start from here////////// */
+    .ab {
+        display: block !important;
+        margin-top: -20px;
+        height: 50rem !important;
+        overflow-x: hidden;
+    }
+
+    .container .row {
+        display: block;
+        width: 1000px;
+    }
+
+    .container .row .col-6 img {
+        display: block;
+        width: 21.7rem;
+    }
+
+    .container .row .abtxt {
+        width: 20rem;
+        margin-top: 30px;
+        margin-left: 30px
+    }
+
+    .container .row .abtxt h1 {
+        font-size: 2rem;
+    }
+
+    /* ////////////section 3 start from here////////// */
+    .provide {
+        margin-top: 0px;
+        height: 1800px !important;
+        padding-top: 50px width:100% !important;
+        overflow-x: hidden;
+    }
+
+    .provide .container .row {
+        display: block !important;
+    }
+
+    .mt-5 {
+        width: 300px !important;
+        height: 220px !important;
+    }
+
+
+    /* section 4 */
+    .protfolio {
+        width: 100% !important;
+        height: 1800px !important;
+        overflow-x: hidden;
+    }
+
+    .protfolio p {
+        font-size: 15px;
+        width: 100% !important
+    }
+
+    .tabs {
+        margin-left: 40px;
+    }
+
+    .tab {
+        width: 250px !important;
+    }
+
+    .wrapper-portfolio {
+        display: block;
+    }
+
+    .panels {
+        overflow: visible !important;
+        width: 330px !important;
+        height: 75rem;
+    }
+
+    .panel .row {
+        display: block
+    }
+
+    .panel .row .col-4 {
+        margin-top: 20px;
+    }
+
+    .panel .row .col-4 img {
+        width: 300px !important;
+        height: auto;
+    }
+
+    .warpper-protfolio .protfolio-btn {
+        margin-top: 250px !important
+    }
+
+    /* section 5 */
+    .ideas {
+        margin-top: -30px;
+        display: block;
+        height: 800px !important;
+        overflow-x: hidden;
+    }
+
+    .ideas .container .row {
+        margin-left: -100;
+    }
+
+    .ideas .container .row .abtxt {
+        width: 25rem !important;
+        margin-left: -50px !important;
+    }
+
+    /* section 6 */
+    .industries {
+        height: 1200px !important;
+        margin-top: -80px;
+        overflow-x: hidden;
+    }
+
+    .industries .main-row {
+        display: flex;
+
+    }
+
+    .industries .mt-4 {
+        margin-left: -30px;
+        width: 150px !important;
+
+    }
+
+    .industries .industries-area .abtxt button {
+        width: 100px !important;
+        font-size: 12px !important;
+        border-radius: 30px !important;
+        margin-top: 20px;
+    }
+
+    .industries .container .abtxt {
+        width: 25rem;
+    }
+
+    /* section 7 */
+    .testimonial {
+        overflow-x: hidden;
+    }
+    .testimonial .carousel-item {
+        overflow-x: hidden;
+    }
+
+    .testimonial .carousel-inner .my-5 {
+        display: flex;
+
+        /* width: 100px!important; */
+    }
+
+    .testimonial .carousel-inner .my-5 .box {
+        /* display: flex; */
+        width: 200px !important;
+        height: auto !important;
+        font-size: 12px;
+        margin-left:70px!important
+    }
+    .testimonial .container .row{
+        width: 350px !important;
+    }
+
+
+
+    .ne {
+        margin-right: 2px;
+    }
+    .pr {
+        margin-left: 2px;
+    }
+
+
+
+}
